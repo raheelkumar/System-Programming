@@ -1,0 +1,4 @@
+#0		SAMPLE		100		1		R
+#1		FOUR		136		4		R
+#2		RESULT		140		8		R
+#3		FIVE		132		4		R

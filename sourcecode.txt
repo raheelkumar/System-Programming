@@ -1,0 +1,14 @@
+SAMPLE START 100
+_      USING *,15
+_      L     1,FOUR
+_      A     1,=F'3'
+_      ST    1,RESULT
+_      SR    1,2
+_      LTORG _
+_      L     2,FIVE
+_      A     2,=F'5'
+_      A     2,=F'7'
+FIVE   DC    F'5'
+FOUR   DC    F'4'
+RESULT DS    2F
+_      END
